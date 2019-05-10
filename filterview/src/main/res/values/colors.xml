@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="textColor">#3F3951</color>
+    <color name="colorPrimary">#2e8af1</color>
+    <color name="wzbfilterview_expanded_background">#30000000</color>
+    <color name="wzbfilterview_divider_background">#f6f8fc</color>
+</resources>

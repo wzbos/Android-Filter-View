@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="FilterView">
+        <attr name="textSize" format="dimension" />
+        <attr name="text" format="string" />
+        <attr name="selected" format="boolean" />
+        <attr name="selectedTextColor" format="color" />
+        <attr name="unSelectedTextColor" format="color" />
+        <attr name="expandedIcon" format="reference" />
+        <attr name="collapseIcon" format="reference" />
+        <attr name="selectedIconTintColor" format="color" />
+        <attr name="unSelectedIconTintColor" format="color" />
+        <attr name="expandedViewHeight" format="dimension" />
+        <attr name="expandedViewTop" format="dimension" />
+        <attr name="expandedDuration" format="integer" />
+    </declare-styleable>
+
+</resources>

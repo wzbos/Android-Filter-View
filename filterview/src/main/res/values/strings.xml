@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">filter</string>
+    <string name="reset">重置</string>
+    <string name="confirm">确认</string>
+</resources>
