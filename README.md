@@ -1,6 +1,6 @@
 # Android-Filter-View
 
-
+[ ![Download](https://api.bintray.com/packages/wuzongbo/maven/filterview/images/download.svg) ](https://bintray.com/wuzongbo/maven/filterview/_latestVersion)
 [![Build Status](https://travis-ci.org/wzbos/Android-Filter-View.svg?branch=master)](https://travis-ci.org/wzbos/Android-Filter-View)
 [![Maven](https://img.shields.io/badge/jcenter-Android--Filter--View-green.svg?style=true)](http://jcenter.bintray.com/cn/wzbos/android/widget/filterview)
 
